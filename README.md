@@ -10,7 +10,7 @@ why
 * payment cards
 * id cards
 
- trend micro identity explorer (free tool)
+ ID Explorer (free tool)
  
 * phone calls
 * messages
