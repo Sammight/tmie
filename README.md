@@ -1,8 +1,6 @@
 # tmie
 Trend Micro ID Explorer
 
-identity explorer
-
 why
  influnced by MYKI (https://myki.com/)
 
@@ -10,6 +8,7 @@ why
 * payment cards
 * id cards
 
+how
  ID Explorer (https://www.trendmicro.com/)
  
 * phone calls
