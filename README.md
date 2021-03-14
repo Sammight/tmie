@@ -6,15 +6,13 @@ identity explorer
 why
  influnced by MYKI
 
-password
-payment cards
-id cards
+* password
+* payment cards
+* id cards
 
- trend micro identity explorer
+ trend micro identity explorer (free tool)
  
-free tool
- 
-phone calls
-messages
-emails
-social networks
+* phone calls
+* messages
+* emails
+* social networks
