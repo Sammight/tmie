@@ -4,13 +4,13 @@ Trend Micro ID Explorer
 identity explorer
 
 why
- influnced by MYKI
+ influnced by MYKI (https://myki.com/)
 
 * password
 * payment cards
 * id cards
 
- ID Explorer (free tool)
+ ID Explorer (https://www.trendmicro.com/)
  
 * phone calls
 * messages
